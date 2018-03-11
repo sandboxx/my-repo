@@ -1,0 +1,9 @@
+rootProject.name = 'my-repo-root'
+
+String[] modules = [
+    'core',
+    'api',
+    'demo',
+]
+
+include modules
